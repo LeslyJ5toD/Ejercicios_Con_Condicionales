@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio13concondicion\Ejercicio13concondicion\bin\Debug\Ejercicio13concondicion.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio13concondicion\Ejercicio13concondicion\bin\Debug\Ejercicio13concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio13concondicion\Ejercicio13concondicion\bin\Debug\Ejercicio13concondicion.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio13concondicion\Ejercicio13concondicion\obj\Debug\Ejercicio13concondicion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio13concondicion\Ejercicio13concondicion\obj\Debug\Ejercicio13concondicion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio13concondicion\Ejercicio13concondicion\obj\Debug\Ejercicio13concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio13concondicion\Ejercicio13concondicion\obj\Debug\Ejercicio13concondicion.pdb

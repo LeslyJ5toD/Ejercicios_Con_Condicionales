@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio3degamaconcondicion\Ejercicio3degamaconcondicion\obj\Debug\Ejercicio3degamaconcondicion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio3degamaconcondicion\Ejercicio3degamaconcondicion\obj\Debug\Ejercicio3degamaconcondicion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio3degamaconcondicion\Ejercicio3degamaconcondicion\bin\Debug\Ejercicio3degamaconcondicion.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio3degamaconcondicion\Ejercicio3degamaconcondicion\bin\Debug\Ejercicio3degamaconcondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio3degamaconcondicion\Ejercicio3degamaconcondicion\bin\Debug\Ejercicio3degamaconcondicion.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio3degamaconcondicion\Ejercicio3degamaconcondicion\obj\Debug\Ejercicio3degamaconcondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio3degamaconcondicion\Ejercicio3degamaconcondicion\obj\Debug\Ejercicio3degamaconcondicion.pdb

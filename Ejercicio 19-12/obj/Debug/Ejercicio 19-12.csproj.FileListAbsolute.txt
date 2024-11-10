@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio 19-12\bin\Debug\Ejercicio 19-12.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio 19-12\bin\Debug\Ejercicio 19-12.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio 19-12\bin\Debug\Ejercicio 19-12.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio 19-12\obj\Debug\Ejercicio 19-12.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio 19-12\obj\Debug\Ejercicio 19-12.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio 19-12\obj\Debug\Ejercicio 19-12.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\Ejercicios Arreglados\Ejercicio 19-12\obj\Debug\Ejercicio 19-12.pdb

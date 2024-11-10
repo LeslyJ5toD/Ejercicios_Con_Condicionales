@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio12concondicion\Ejercicio12concondicion\bin\Debug\Ejercicio12concondicion.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio12concondicion\Ejercicio12concondicion\bin\Debug\Ejercicio12concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio12concondicion\Ejercicio12concondicion\bin\Debug\Ejercicio12concondicion.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio12concondicion\Ejercicio12concondicion\obj\Debug\Ejercicio12concondicion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio12concondicion\Ejercicio12concondicion\obj\Debug\Ejercicio12concondicion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio12concondicion\Ejercicio12concondicion\obj\Debug\Ejercicio12concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio12concondicion\Ejercicio12concondicion\obj\Debug\Ejercicio12concondicion.pdb

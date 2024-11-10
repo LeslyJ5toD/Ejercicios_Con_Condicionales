@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio10concondicion\Ejercicio10concondicion\bin\Debug\Ejercicio10concondicion.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio10concondicion\Ejercicio10concondicion\bin\Debug\Ejercicio10concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio10concondicion\Ejercicio10concondicion\bin\Debug\Ejercicio10concondicion.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio10concondicion\Ejercicio10concondicion\obj\Debug\Ejercicio10concondicion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio10concondicion\Ejercicio10concondicion\obj\Debug\Ejercicio10concondicion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio10concondicion\Ejercicio10concondicion\obj\Debug\Ejercicio10concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio10concondicion\Ejercicio10concondicion\obj\Debug\Ejercicio10concondicion.pdb

@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio11-6concondicion\Ejercicio11-6concondicion\bin\Debug\Ejercicio11-6concondicion.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio11-6concondicion\Ejercicio11-6concondicion\bin\Debug\Ejercicio11-6concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio11-6concondicion\Ejercicio11-6concondicion\bin\Debug\Ejercicio11-6concondicion.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio11-6concondicion\Ejercicio11-6concondicion\obj\Debug\Ejercicio11-6concondicion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio11-6concondicion\Ejercicio11-6concondicion\obj\Debug\Ejercicio11-6concondicion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio11-6concondicion\Ejercicio11-6concondicion\obj\Debug\Ejercicio11-6concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio11-6concondicion\Ejercicio11-6concondicion\obj\Debug\Ejercicio11-6concondicion.pdb

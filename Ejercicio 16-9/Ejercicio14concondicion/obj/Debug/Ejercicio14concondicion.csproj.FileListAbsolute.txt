@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio14concondicion\Ejercicio14concondicion\bin\Debug\Ejercicio14concondicion.exe.config
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio14concondicion\Ejercicio14concondicion\bin\Debug\Ejercicio14concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio14concondicion\Ejercicio14concondicion\bin\Debug\Ejercicio14concondicion.pdb
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio14concondicion\Ejercicio14concondicion\obj\Debug\Ejercicio14concondicion.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio14concondicion\Ejercicio14concondicion\obj\Debug\Ejercicio14concondicion.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio14concondicion\Ejercicio14concondicion\obj\Debug\Ejercicio14concondicion.exe
+C:\Users\PC\Documents\CODIGOS DE GAMA\lesly\Ejercicio14concondicion\Ejercicio14concondicion\obj\Debug\Ejercicio14concondicion.pdb
