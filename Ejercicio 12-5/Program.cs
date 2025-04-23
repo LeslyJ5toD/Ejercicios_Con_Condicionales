@@ -1,5 +1,8 @@
 ﻿using System;
 
+/*Este programa en C# pide al usuario
+un número entero y determina si es positivo 
+o negativo.*/
 
 namespace Ejercicio10concondicion
 {
