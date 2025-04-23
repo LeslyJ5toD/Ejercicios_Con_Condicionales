@@ -1,5 +1,8 @@
 ﻿using System;
 
+/*Este programa en C# compara dos números enteros 
+ingresados por el usuario y muestra cuál es mayor.*/
+
 namespace Ejercicio12concondicion
 {
     internal class Program
