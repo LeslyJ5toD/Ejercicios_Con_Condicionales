@@ -1,5 +1,8 @@
 ﻿using System;
 
+/*Este programa en C# verifica si un número
+entero ingresado por el usuario es par o impar.*/
+
 namespace Ejercicio11_6concondicion
 {
     internal class Program
