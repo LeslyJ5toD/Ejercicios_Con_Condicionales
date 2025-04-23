@@ -1,5 +1,10 @@
 ﻿using System;
 
+/*Este programa en C# calcula la calificación final de un estudiante,
+considerando evaluaciones normales, completivas y extraordinarias,
+y determina si el estudiante aprueba o reprueba según los resultados
+obtenidos en cada fase.*/
+
 class Programa
 {
     static void Main()
