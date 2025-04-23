@@ -1,5 +1,11 @@
 ﻿using System;
 
+/*Este programa en C# solicita el sexo y la edad 
+de una persona para determinar si puede entrar a 
+una discoteca: si es menor de 18, no puede entrar;
+si es mayor de edad, las chicas entran gratis y los 
+chicos pagan.*/
+
 class Program
 {
     static void Main()
