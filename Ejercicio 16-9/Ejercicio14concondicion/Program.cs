@@ -1,5 +1,8 @@
 ﻿using System;
 
+/*Este programa en C# solicita tres números enteros 
+y los ordena de mayor a menor, indicando cuál es el
+mayor, el central y el menor.*/
 
 namespace Ejercicio14concondicion
 {
