@@ -1,5 +1,11 @@
 ﻿using System;
 
+/*Este programa en C# calcula el sueldo neto de un empleado,
+considerando los descuentos de AFP, SFS e ISR. Solicita el 
+sueldo bruto mensual, calcula los descuentos correspondientes 
+y, si es necesario, calcula el ISR según los tramos fiscales. 
+Luego, muestra el sueldo bruto, los descuentos y el sueldo neto.*/
+
 namespace Ejercicio11concondicion
 {
     internal class Ejercicio11concondicion
