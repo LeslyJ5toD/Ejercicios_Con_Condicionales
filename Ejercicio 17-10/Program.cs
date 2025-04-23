@@ -1,5 +1,11 @@
 ﻿using System;
 
+/*Este programa en C# calcula el sueldo neto mensual
+de un empleado después de aplicar los descuentos de AFP, 
+SFS y, si corresponde, el ISR (Impuesto Sobre la Renta),
+en base a su sueldo bruto mensual. También muestra los 
+detalles de los descuentos y el sueldo neto.*/
+
 class Program
 {
     static void Main(string[] args)
