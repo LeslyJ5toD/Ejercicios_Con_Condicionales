@@ -1,5 +1,9 @@
 ﻿using System;
 
+/*Este programa en C# calcula el promedio de 
+cuatro notas y clasifica el rendimiento del
+estudiante como Excelente, Muy Bueno, Bueno, 
+Regular o Deficiente según el promedio obtenido.*/
 
 namespace Ejercicio4concondicion
 {
