@@ -1,5 +1,11 @@
 ﻿using System;
 
+/*Este programa en C# calcula un incentivo para un empleado basado
+en el número de hijos que tiene. Solicita el sueldo y el número de 
+hijos del empleado, y si el empleado tiene hijos, le asigna un incentivo
+de 500 por cada hijo. Luego, muestra el sueldo, el número de hijos y el 
+incentivo calculado.*/
+
 class Programa
 {
     static void Main()
