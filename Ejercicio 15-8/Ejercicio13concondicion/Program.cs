@@ -1,5 +1,8 @@
 ﻿using System;
 
+/*Este programa en C# solicita tres números enteros
+y muestra cuál de ellos es el mayor.*/
+
 namespace Ejercicio13concondicion
 {
     internal class Program
