@@ -1,5 +1,11 @@
 ﻿using System;
 
+/*Este programa en C# calcula el promedio
+de cuatro notas ingresadas por el usuario
+y determina si el estudiante aprobó (promedio 
+mayor o igual a 70) o reprobó.*/
+
+
 namespace Ejercicio3degamaconcondicion
 {
     internal class Condicion3
